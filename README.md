@@ -1,2 +1,3 @@
 # StarkOS
-A personally made OS from the bootloader to the userspace, no tracking, nothing, you have full control'
+
+DtsrkOS is an Operating System that I created to protect people like use from coporate greed and tracking. StarkOS will most likely have support for many games and applications that may require tracking features. StarkOS itself will never log anything you do on it and this stupid idea of requiring age verification on an Operating System *cough, Califiornia, cough* will not exist. This will come pre-packaged as a text based OS with wifi access and a apackage installer. Feel free to make custom packages and custom versions so long as you credit me as the original creator. There will be a a package made for a real OS GUI, you will be able to edit EVERY system file. At its core starkOS is centered around privacy and absolute user control. 
