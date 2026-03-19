@@ -6,6 +6,6 @@ Due to recent laws in the state of California, I cannot condone the use of this 
 
 Release of liability:
 
-In using and installing this software, I am not responsible for damage to hardware. If you use this in a state or country in which it would be effectively illegal to laws saying age verification is needed in an OS, I am not reponsible for anything that happens to you, StarkOS will not track you by default (because it cant) but if you install 3rd party software that can and will track you, that is outside of my control.
+In using and installing this software, I am not responsible for damage to hardware. If you use this in a state or country in which it would be effectively illegal to laws saying age verification is needed in an OS, I am not reponsible for anything that happens to you, StarkOS will not track you by default (because it cant) but if you install 3rd party software that can and will track you, that is outside of my control, and therefore not my problem.
 
 Thank you for choosing StarkOS
