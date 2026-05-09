@@ -14,4 +14,4 @@ Now that that's out of the way
 
 # WELCOME TO STARKOS
 
-StarkOS is an operating system built from nothing, I wrote the bootloader, the kernel, and I made the userspace things myself. You may install a GUI instead of the text based default, and upon boot you may select text based or GUI after installing the GUI package. StarkOS centers around absolute control, no multi account, elevated privileges nonsense, StarkOS is for the tinkerer, the person who wants to have absolute control over everything
+StarkOS is an operating system built from almost nothing, I had to rob the bootloader from grub, the kernel and the userspace I made myself. You may install a GUI instead of the text based default (once I get there), and upon boot you may select text based or GUI after installing the GUI package. StarkOS centers around absolute control, no multi account, elevated privileges nonsense, StarkOS is for the tinkerer, the person who wants to have absolute control over everything
