@@ -1,7 +1,3 @@
-# StarkOS
-
-StarkOS is an Operating System that I created to protect people like use from coporate greed and tracking. StarkOS will most likely have support for many games and applications that may require tracking features. StarkOS itself will never log anything you do on it and this stupid idea of requiring age verification on an Operating System *cough, Califiornia, cough* will not exist. This will come pre-packaged as a text based OS with wifi access and a apackage installer. Feel free to make custom packages and custom versions so long as you credit me as the original creator. There will be a a package made for a real OS GUI, you will be able to edit EVERY system file. At its core starkOS is centered around privacy and absolute user control. 
-
 Due to recent laws in the state of California, I cannot condone the use of this software in that state.
 
 Release of liability:
@@ -14,6 +10,6 @@ Now that that's out of the way
 
 # WELCOME TO STARKOS
 
-StarkOS is an operating system built from almost nothing, I had to rob the bootloader from grub, the kernel and the userspace I made myself. You may install a GUI instead of the text based default (once I get there), and upon boot you may select text based or GUI after installing the GUI package. StarkOS centers around absolute control, no multi account, elevated privileges nonsense, StarkOS is for the tinkerer, the person who wants to have absolute control over everything
+StarkOS is an operating system built from almost nothing, I had to rob the bootloader from grub, the kernel and the userspace I made myself. You may install a GUI instead of the text based default (once I get there), and upon boot you may select text based or GUI after installing the GUI package. StarkOS centers around absolute control, no multi account, elevated privileges nonsense, the person who wants to have absolute control over everything
 
 This is open source, if you wish to copy and edit feel free, if you post it to github, just give me credit for the original. Other than that I do not care what you do.
