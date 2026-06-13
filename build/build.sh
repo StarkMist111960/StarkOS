@@ -2,9 +2,9 @@
 
 echo 'use of this requires WSL or a linux distribution that supports APT'
 
-read -p 'do you wish to continue (y,n)?'ANS
+read -p 'do you wish to continue (y,n)?' ANS
 
-if [$ANS -eq 'y']; then
+if [[$ANS -eq 'y']]; then
 
   cd ~/
 
