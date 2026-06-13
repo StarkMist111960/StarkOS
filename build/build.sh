@@ -20,7 +20,7 @@ if [ $ANS = 'y' ]; then
 
   sleep 2
   
-  sudo apt install build-essential nasm grub-pc-bin xorriso mtools qemu-system-x86
+  sudo apt install -y build-essential nasm grub-pc-bin xorriso mtools qemu-system-x86
 
   echo 'installed needed things successfully, continuing to build...'
 
