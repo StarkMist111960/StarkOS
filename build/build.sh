@@ -37,6 +37,20 @@ if [ $ANS = 'y' ]; then
 
   echo 'run success! Things ran and built flawlessly, use this qemu command to test in a VM (or flash to a usb idc): qemu-system-i386 -cdrom StarkOS.iso'
 
+  read -p 'would you like to use the qemu command (y, n)? ' ANS2
+
+    if [ $ANS2 = 'y' ]; then
+      qemu-system-i386 -cdrom StarkOS.iso
+
+    else
+      echo 'cancelled, now exiting'
+      
+      sleep 3
+
+      exit 1
+
+    fi
+
 else
   echo 'cancelled, now exiting'
 
