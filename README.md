@@ -16,6 +16,6 @@ This is open source, if you wish to copy and edit feel free, if you post it to g
 
 Use the following command to build the OS using the including bash file:
 
-bash```
+```
 curl -Ls https://raw.githubusercontent.com/StarkMist111960/StarkOS/main/build/build.sh
 ```
