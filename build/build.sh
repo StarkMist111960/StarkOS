@@ -22,6 +22,8 @@ if [ $ANS = 'y' ]; then
   
   sudo apt install -y build-essential nasm grub-pc-bin xorriso mtools qemu-system-x86
 
+  sleep 4
+
   echo 'installed needed things successfully, continuing to build...'
 
   rmdir output
