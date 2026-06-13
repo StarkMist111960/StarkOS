@@ -2,9 +2,9 @@
 
 echo 'use of this requires WSL or a linux distribution that supports APT'
 
-read -p 'do you wish to continue (y,n)?' ANS
+read -p 'do you wish to continue (y,n)? ' ANS
 
-if [$ANS -eq 'y']; then
+if [ $ANS = 'y' ]; then
 
   cd ~/
 
@@ -16,7 +16,7 @@ if [$ANS -eq 'y']; then
   
   echo 'installing needed things and stuff...'
 
-  sudo apt update && upgrade
+  sudo apt update && sudo apt upgrade
 
   sleep 2
   
