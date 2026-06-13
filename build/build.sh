@@ -24,6 +24,7 @@ if [ $ANS = 'y' ]; then
 
   echo 'installed needed things successfully, continuing to build...'
 
+  rmdir output
   mkdir output
   nasm -f elf32 boot/boot.asm -o output/boot.o
   gcc -m32 -ffreestanding -c kernel/kernel.c -o output/kernel.o
