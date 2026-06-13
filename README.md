@@ -1,4 +1,3 @@
-Due to recent laws in the state of California, I cannot condone the use of this software in that state.
 
 Release of liability:
 
