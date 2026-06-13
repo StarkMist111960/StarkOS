@@ -1,5 +1,5 @@
 
-#STARKOS
+STARKOS
 
 StarkOS was a project I made because I have always had a love for lower level software. This OS is more of a passion project than anything, and i would like to share it with others. I made this myself in order to leanr more about how this stuff works.
 
