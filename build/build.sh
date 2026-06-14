@@ -35,7 +35,7 @@ if [ $ANS = 'y' ]; then
 
   grub-mkrescue -o StarkOS.iso iso
 
-  echo 'run success! Things ran and built flawlessly, use this qemu command to test in a VM (or flash to a usb idc): qemu-system-i386 -cdrom StarkOS.iso'
+  echo 'Success! Things ran and built flawlessly, use this qemu command to test in a VM (or flash to a usb idc): qemu-system-i386 -cdrom StarkOS.iso'
 
   read -p 'would you like to use the qemu command (y, n)? ' ANS2
 
